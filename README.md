@@ -1,4 +1,4 @@
-# TMF AI agents for developing telecom autonomous system 
+# TMF AI agents for developing autonomous system for telecom
 
 ## Service Management AI Agents
 * ajay.nema.ai.agents.tmf.service.638 - Service management AI Agent
