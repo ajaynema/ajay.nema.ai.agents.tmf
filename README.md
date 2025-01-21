@@ -77,7 +77,7 @@
 ### Work  Management AI Agents
 * ajay.nema.ai.agents.tmf.work.v4.713 - Work Management AI Agent
 * ajay.nema.ai.agents.tmf.work.order.v5.697 - Work Order Management AI Agent
-* ajay.nema.ai.agents.tmf.work.qualification.v5.697 - Work Qualification Management AI Agent
+* ajay.nema.ai.agents.tmf.work.qualification.v5.714 - Work Qualification Management AI Agent
 
 
 ## Customer Management AI Agents
