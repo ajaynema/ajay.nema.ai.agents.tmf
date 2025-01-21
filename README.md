@@ -16,9 +16,24 @@
 * ajay.nema.ai.agents.tmf.resource.pool.v5.685 - Resource Pool Management AI Agent
 * ajay.nema.ai.agents.tmf.resource.stock.v5.687 - Resource Usage Management AI Agent
 * ajay.nema.ai.agents.tmf.resource.role.v5.768 - Resource Role Management AI Agent
-* ajay.nema.ai.agents.tmf.resource.software.compute.v5.730 - Resource Software and compute Management AI Agent
+* ajay.nema.ai.agents.tmf.resource.software.compute.v5.730 - Resource Software and Compute Management AI Agent
 * ajay.nema.ai.agents.tmf.resource.usage.v5.771 - Resource Usage Management AI Agent
   
 ## Product Management AI Agents
 
 ## Customer Management AI Agents
+* ajay.nema.ai.agents.tmf.customer.v5.629 - Customer Management AI Agent
+* ajay.nema.ai.agents.tmf.customer360.v5.717 - Customer 360 Management AI Agent
+
+### Product Order Management AI Agents
+* ajay.nema.ai.agents.tmf.cart.v5.663 - Shopping Cart Management AI Agent
+* 
+### Customer Billing Management AI Agents
+* ajay.nema.ai.agents.tmf.billing.v5.678 - Customer Billing Management AI Agent
+### Payment Management AI Agents
+* ajay.nema.ai.agents.tmf.payment.v4.629 - Payment Management AI Agent
+* ajay.nema.ai.agents.tmf.prepay.v4.654 - Prepay Balance Management AI Agent
+* ajay.nema.ai.agents.tmf.payment.method.v4.629 - Payment Method Management AI Agent
+## Common AI Agents
+## Marketing Sales AI Agents
+
