@@ -68,7 +68,7 @@
 ### Revenue Management AI Agents
 * ajay.nema.ai.agents.tmf.revenue.sharing.algorithm.v5.736 - Revenue sharing Algorithm Management AI Agent
 * ajay.nema.ai.agents.tmf.revenue.sharing.model.v5.738 - Revenue sharing model management AI Agent
-* ajay.nema.ai.agents.tmf.revenue.sharing.model.v5.736 - Revenue sharing model management AI Agent
+* ajay.nema.ai.agents.tmf.revenue.sharing.report.v5.737 - Revenue sharing Report management AI Agent
 
 ### Shipping Management AI Agents
 * ajay.nema.ai.agents.tmf.shipping.v1.684 - Shipping Management AI Agent
