@@ -24,16 +24,23 @@
 ## Customer Management AI Agents
 * ajay.nema.ai.agents.tmf.customer.v5.629 - Customer Management AI Agent
 * ajay.nema.ai.agents.tmf.customer360.v5.717 - Customer 360 Management AI Agent
+* ajay.nema.ai.agents.tmf.customer.recommendation.v4.717 - Recommendation Management AI Agent
+* ajay.nema.ai.agents.tmf.customer.appointment.v4.717 - Appointment Management AI Agent
 
 ### Product Order Management AI Agents
-* ajay.nema.ai.agents.tmf.cart.v5.663 - Shopping Cart Management AI Agent
-* 
+* ajay.nema.ai.agents.tmf.product.quote.v5.648 - Qoute Management AI Agent
+* ajay.nema.ai.agents.tmf.product.cart.v5.663 - Shopping Cart Management AI Agent
+* ajay.nema.ai.agents.tmf.product.order.v5.622 - Product Order Management AI Agent
+* ajay.nema.ai.agents.tmf.product.configuration.v5.622 - Product Configuration Management AI Agent
+  
 ### Customer Billing Management AI Agents
 * ajay.nema.ai.agents.tmf.billing.v5.678 - Customer Billing Management AI Agent
 ### Payment Management AI Agents
 * ajay.nema.ai.agents.tmf.payment.v4.629 - Payment Management AI Agent
-* ajay.nema.ai.agents.tmf.prepay.v4.654 - Prepay Balance Management AI Agent
+* ajay.nema.ai.agents.tmf.payment.prepay.v4.654 - Prepay Balance Management AI Agent
 * ajay.nema.ai.agents.tmf.payment.method.v4.629 - Payment Method Management AI Agent
+### Risk Management AI Agents
+* ajay.nema.ai.agents.tmf.risk.v4.696 - Risk Management AI Agent
 ## Common AI Agents
 ## Marketing Sales AI Agents
 
