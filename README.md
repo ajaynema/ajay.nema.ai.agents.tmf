@@ -59,6 +59,9 @@
 * ajay.nema.ai.agents.tmf.shipping.v1.684 - Shipping Management AI Agent
 * ajay.nema.ai.agents.tmf.shipping.order.v5.700 - Shipping Order Management AI Agent
 
+### Work  Management AI Agents
+* ajay.nema.ai.agents.tmf.work.v4.713 - Work Management AI Agent
+* ajay.nema.ai.agents.tmf.work.order.v5.697 - Work Order Management AI Agent
 
 ## Customer Management AI Agents
 
@@ -68,7 +71,6 @@
 * ajay.nema.ai.agents.tmf.customer.appointment.v4.717 - Appointment Management AI Agent
 * ajay.nema.ai.agents.tmf.customer.account.v5.666 - Customer Account Management  AI Agent
 * ajay.nema.ai.agents.tmf.customer.agreement.v5.666 - Customer Agreement Management  AI Agent
-
 
 ### Product Order Management AI Agents
 
