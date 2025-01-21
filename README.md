@@ -12,10 +12,23 @@
 * ajay.nema.ai.agents.tmf.service.test.653 - Service Test Management AI Agent
 * ajay.nema.ai.agents.tmf.service.usage.727 - Service Usage Management AI Agent
 
- 
-  
+## Intent Management AI Agents
+* ajay.nema.ai.agents.tmf.intent.v5.921 - Intent Management AI Agent
+
 ## Alarm Management AI Agents
 * ajay.nema.ai.agents.tmf.alarm.v5.642 - Alarm Management AI Agent
+
+## Event Management AI Agents
+* ajay.nema.ai.agents.tmf.event.v5.668 - Event Management AI Agent
+
+## Location Management AI Agents
+* ajay.nema.ai.agents.tmf.location.v4.675- Location Management AI Agent
+* ajay.nema.ai.agents.tmf.location.address.v5.673- Address Management AI Agent
+* ajay.nema.ai.agents.tmf.location.site.v5.674- Site Management AI Agent
+
+
+## Topology Management AI Agents
+* ajay.nema.ai.agents.tmf.topology.v4.686- Topology Management AI Agent
 
 ## Resource Management AI Agents
 
@@ -28,6 +41,8 @@
 * ajay.nema.ai.agents.tmf.resource.role.v5.768 - Resource Role Management AI Agent
 * ajay.nema.ai.agents.tmf.resource.software.compute.v5.730 - Resource Software and Compute Management AI Agent
 * ajay.nema.ai.agents.tmf.resource.usage.v5.771 - Resource Usage Management AI Agent
+* ajay.nema.ai.agents.tmf.resource.reservation.v5.716 - Resource Reservation Management AI Agent
+
   
 ## Product Management AI Agents
 
@@ -62,6 +77,8 @@
 ### Work  Management AI Agents
 * ajay.nema.ai.agents.tmf.work.v4.713 - Work Management AI Agent
 * ajay.nema.ai.agents.tmf.work.order.v5.697 - Work Order Management AI Agent
+* ajay.nema.ai.agents.tmf.work.qualification.v5.697 - Work Qualification Management AI Agent
+
 
 ## Customer Management AI Agents
 
@@ -82,6 +99,8 @@
 ### Customer Billing Management AI Agents
 
 * ajay.nema.ai.agents.tmf.billing.v5.678 - Customer Billing Management AI Agent
+* ajay.nema.ai.agents.tmf.cdr.transaction.v5.735 - CDR Transaction Management AI Agent
+
   
 ### Payment Management AI Agents
 
@@ -92,9 +111,59 @@
 ### Risk Management AI Agents
 
 * ajay.nema.ai.agents.tmf.risk.v4.696 - Risk Management AI Agent
-  
-## Common AI Agents
 
+ ## Test Management AI Agents
+* ajay.nema.ai.agents.test.testcase.v4.704 - Test case Management AI Agent
+* ajay.nema.ai.agents.test.envirnment.v4.705 - Test Enviornment Management AI Agent
+* ajay.nema.ai.agents.test.result.v4.707 - Test Result Management AI Agent
+* ajay.nema.ai.agents.test.data.v4.706 - Test Data Management AI Agent
+* ajay.nema.ai.agents.test.execution.v4.708 - Test Execution Management AI Agent
+* ajay.nema.ai.agents.test.scenario.v4.708 - Test Scanrio Management AI Agent
+
+  
+## Misc AI Agents
+### Change Management AI Agents
+
+* ajay.nema.ai.agents.change.v4.655 - Change Management AI Agent
+
+### Communication Management AI Agents
+* ajay.nema.ai.agents.communication.v4.681 - Communication Management AI Agent
+
+### Document Management AI Agents
+* ajay.nema.ai.agents.document.v4.667 - Document Management AI Agent
+
+### Incident Management AI Agents
+* ajay.nema.ai.agents.tmf.incident.v4.724 - Incident Management AI Agent
+* ajay.nema.ai.agents.tmf.trouble.ticket.v5.621 - Trouble Ticket Management AI Agent
+
+
+### Metadata Management AI Agents
+* ajay.nema.ai.agents.tmf.metadata.catalog.v4.725 - Meta Data Catalog Management AI Agent
+
+### Performance Management AI Agents
+* ajay.nema.ai.agents.tmf.performance.v4.723 - Performance Management AI Agent
+* ajay.nema.ai.agents.tmf.performance.threshold.v4.649 - Performance Threshold Management AI Agent
+
+### User Management AI Agents
+* ajay.nema.ai.agents.digital.identity.v5.720 - Digital Identity Management AI Agent
+* ajay.nema.ai.agents.tmf.user.role.v5.672 - User Role and Permission Management AI Agent
+
+### Close loop Management AI Agents
+* ajay.nema.ai.agents.tmf.close.loop.v5.753 - Close loop Management AI Agent
+
+### Enity Management AI Agents
+* ajay.nema.ai.agents.tmf.entity.catalog.v5.662 - Entity Catalog Management AI Agent
+* ajay.nema.ai.agents.tmf.entity.inventory.v5.662 - Entity Inventory Management AI Agent
+
+### Process flow Management AI Agents
+* ajay.nema.ai.agents.process.flow.v5.701 - Process Flow Management AI Agent
+
+### Self care Management AI Agents
+* ajay.nema.ai.agents.self.care.v1.910 - Self care Management AI Agent
+
+### Warrenty Management AI Agents
+* ajay.nema.ai.agents.warranty.v4.715 - Warranty Management AI Agent
 
 ## Marketing Sales AI Agents
+* ajay.nema.ai.agents.sales.v5.699 - Sales Management AI Agent
 
