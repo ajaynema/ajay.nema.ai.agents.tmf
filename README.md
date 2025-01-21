@@ -114,7 +114,7 @@
 
  ## Test Management AI Agents
 * ajay.nema.ai.agents.test.testcase.v4.704 - Test case Management AI Agent
-* ajay.nema.ai.agents.test.envirnment.v4.705 - Test Enviornment Management AI Agent
+* ajay.nema.ai.agents.test.environment.v4.705 - Test environmental management AI Agent
 * ajay.nema.ai.agents.test.result.v4.707 - Test Result Management AI Agent
 * ajay.nema.ai.agents.test.data.v4.706 - Test Data Management AI Agent
 * ajay.nema.ai.agents.test.execution.v4.708 - Test Execution Management AI Agent
@@ -158,10 +158,10 @@
 ### Process flow Management AI Agents
 * ajay.nema.ai.agents.process.flow.v5.701 - Process Flow Management AI Agent
 
-### Self care Management AI Agents
-* ajay.nema.ai.agents.self.care.v1.910 - Self care Management AI Agent
+### Self-care Management AI Agents
+* ajay.nema.ai.agents.self.care.v1.910 - Self-care Management AI Agent
 
-### Warrenty Management AI Agents
+### Warranty Management AI Agents
 * ajay.nema.ai.agents.warranty.v4.715 - Warranty Management AI Agent
 
 ## Marketing Sales AI Agents
