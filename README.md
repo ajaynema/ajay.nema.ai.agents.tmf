@@ -3,6 +3,9 @@
 ## Service Management AI Agents
 * ajay.nema.ai.agents.tmf.service.638 - Service management AI Agent
 * ajay.nema.ai.agents.tmf.service.catalog.633 - Service catalog management AI Agent
+* ajay.nema.ai.agents.tmf.service.netowrk.909 - Network as Service  management AI Agent
+* ajay.nema.ai.agents.tmf.service.iot.914 - IoT Service  management AI Agent
+ 
   
 ## Alarm Management AI Agents
 * ajay.nema.ai.agents.tmf.alarm.v5.642 - Alarm Management AI Agent
@@ -27,7 +30,9 @@
 * ajay.nema.ai.agents.tmf.product.qualification.v5.679 - Product Qualification Management AI Agent
 * ajay.nema.ai.agents.tmf.product.test.v5.769 - Product Test Management AI Agent
 * ajay.nema.ai.agents.tmf.product.usage.v5.767 - Product Usage Management AI Agent
-* ajay.nema.ai.agents.tmf.product.promotion.v5.767 - Product Promotion Management AI Agent
+* ajay.nema.ai.agents.tmf.product.promotion.v5.671 - Product Promotion Management AI Agent
+* ajay.nema.ai.agents.tmf.product.consumption.v5.677 - Product Consumption Management AI Agent
+* ajay.nema.ai.agents.tmf.product.usage.v5.635 - Usage Management AI Agent
 
 
 ## Customer Management AI Agents
