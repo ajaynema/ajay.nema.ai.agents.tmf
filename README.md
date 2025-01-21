@@ -3,8 +3,15 @@
 ## Service Management AI Agents
 * ajay.nema.ai.agents.tmf.service.638 - Service management AI Agent
 * ajay.nema.ai.agents.tmf.service.catalog.633 - Service catalog management AI Agent
-* ajay.nema.ai.agents.tmf.service.netowrk.909 - Network as Service  management AI Agent
-* ajay.nema.ai.agents.tmf.service.iot.914 - IoT Service  management AI Agent
+* ajay.nema.ai.agents.tmf.service.netowrk.909 - Network as Service  Management AI Agent
+* ajay.nema.ai.agents.tmf.service.iot.914 - IoT Service  Management AI Agent
+* ajay.nema.ai.agents.tmf.service.activation.640 - Service activation management AI Agent
+* ajay.nema.ai.agents.tmf.service.order.640 - Service order management AI Agent
+* ajay.nema.ai.agents.tmf.service.qualification.645 - Service Qualification management AI Agent
+* ajay.nema.ai.agents.tmf.service.quality.657 - Service Quality Management AI Agent
+* ajay.nema.ai.agents.tmf.service.test.653 - Service Test Management AI Agent
+* ajay.nema.ai.agents.tmf.service.usage.727 - Service Usage Management AI Agent
+
  
   
 ## Alarm Management AI Agents
@@ -35,12 +42,33 @@
 * ajay.nema.ai.agents.tmf.product.usage.v5.635 - Usage Management AI Agent
 
 
+## Business Partner Management AI Agents
+* ajay.nema.ai.agents.tmf.partner.agreement.v4.668 - Partnership Management  AI Agent
+* ajay.nema.ai.agents.tmf.partner.interaction.v5.683 - Partner Interaction Management  AI Agent
+* ajay.nema.ai.agents.tmf.party.v5.632 - Party  Management  AI Agent
+* ajay.nema.ai.agents.tmf.party.role.v5.683 - Party Role Management AI Agent
+* ajay.nema.ai.agents.tmf.privacy.role.v5.644 - Privacy Management AI Agent
+* ajay.nema.ai.agents.tmf.sla.v2.623 - SLA Management AI Agent
+
+### Revenue Management AI Agents
+* ajay.nema.ai.agents.tmf.revenue.sharing.algorithm.v5.736 - Revenue sharing Algorithm Management AI Agent
+* ajay.nema.ai.agents.tmf.revenue.sharing.model.v5.738 - Revenue sharing model management AI Agent
+* ajay.nema.ai.agents.tmf.revenue.sharing.model.v5.736 - Revenue sharing model management AI Agent
+
+### Shipping Management AI Agents
+* ajay.nema.ai.agents.tmf.shipping.v1.684 - Shipping Management AI Agent
+* ajay.nema.ai.agents.tmf.shipping.order.v5.700 - Shipping Order Management AI Agent
+
+
 ## Customer Management AI Agents
 
 * ajay.nema.ai.agents.tmf.customer.v5.629 - Customer Management AI Agent
 * ajay.nema.ai.agents.tmf.customer360.v5.717 - Customer 360 Management AI Agent
 * ajay.nema.ai.agents.tmf.customer.recommendation.v4.717 - Recommendation Management AI Agent
 * ajay.nema.ai.agents.tmf.customer.appointment.v4.717 - Appointment Management AI Agent
+* ajay.nema.ai.agents.tmf.customer.account.v5.666 - Customer Account Management  AI Agent
+* ajay.nema.ai.agents.tmf.customer.agreement.v5.666 - Customer Agreement Management  AI Agent
+
 
 ### Product Order Management AI Agents
 
@@ -64,6 +92,7 @@
 * ajay.nema.ai.agents.tmf.risk.v4.696 - Risk Management AI Agent
   
 ## Common AI Agents
+
 
 ## Marketing Sales AI Agents
 
