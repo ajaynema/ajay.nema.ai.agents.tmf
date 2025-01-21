@@ -56,6 +56,12 @@
 * ajay.nema.ai.agents.tmf.product.consumption.v5.677 - Product Consumption Management AI Agent
 * ajay.nema.ai.agents.tmf.product.usage.v5.635 - Usage Management AI Agent
 
+### Product Order Management AI Agents
+
+* ajay.nema.ai.agents.tmf.product.quote.v5.648 - Qoute Management AI Agent
+* ajay.nema.ai.agents.tmf.product.cart.v5.663 - Shopping Cart Management AI Agent
+* ajay.nema.ai.agents.tmf.product.order.v5.622 - Product Order Management AI Agent
+* ajay.nema.ai.agents.tmf.product.configuration.v5.760 - Product Configuration Management AI Agent
 
 ## Business Partner Management AI Agents
 * ajay.nema.ai.agents.tmf.partner.agreement.v4.668 - Partnership Management  AI Agent
@@ -84,17 +90,11 @@
 
 * ajay.nema.ai.agents.tmf.customer.v5.629 - Customer Management AI Agent
 * ajay.nema.ai.agents.tmf.customer360.v5.717 - Customer 360 Management AI Agent
-* ajay.nema.ai.agents.tmf.customer.recommendation.v4.717 - Recommendation Management AI Agent
-* ajay.nema.ai.agents.tmf.customer.appointment.v4.717 - Appointment Management AI Agent
+* ajay.nema.ai.agents.tmf.customer.recommendation.v4.680 - Recommendation Management AI Agent
+* ajay.nema.ai.agents.tmf.customer.appointment.v4.646 - Appointment Management AI Agent
 * ajay.nema.ai.agents.tmf.customer.account.v5.666 - Customer Account Management  AI Agent
-* ajay.nema.ai.agents.tmf.customer.agreement.v5.666 - Customer Agreement Management  AI Agent
+* ajay.nema.ai.agents.tmf.customer.agreement.v5.651 - Customer Agreement Management  AI Agent
 
-### Product Order Management AI Agents
-
-* ajay.nema.ai.agents.tmf.product.quote.v5.648 - Qoute Management AI Agent
-* ajay.nema.ai.agents.tmf.product.cart.v5.663 - Shopping Cart Management AI Agent
-* ajay.nema.ai.agents.tmf.product.order.v5.622 - Product Order Management AI Agent
-* ajay.nema.ai.agents.tmf.product.configuration.v5.622 - Product Configuration Management AI Agent
   
 ### Customer Billing Management AI Agents
 
