@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate
-
+from  langchain_core.output_parsers.string import StrOutputParser
 import os
 
 load_dotenv()
@@ -15,7 +15,7 @@ template = ChatPromptTemplate([
 ])
 
 llm = ChatOllama(model="gemma2")
-chain = template|llm
+chain = template|llm | StrOutputParser()
 
 result = chain.invoke(
     {
@@ -24,4 +24,4 @@ result = chain.invoke(
     }
 )
 
-print(result.content)
+print(result)
